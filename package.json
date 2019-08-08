@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder App",
+  "main": "home.html",
+  "scripts": {
+    "test": "Wanna be friends?",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simmonsm13/FriendFinder.git"
+  },
+  "keywords": [
+    "Friend",
+    "Finder"
+  ],
+  "author": "Michael Simmons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simmonsm13/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/simmonsm13/FriendFinder#readme"
+}
